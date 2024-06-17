@@ -24,7 +24,7 @@
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Paul is a Product Owner for multiple products. Each product is allocated a dedicated Scrum Team and a set budget. Based on the average velocity of a previous product release, Paul had estimated a new product to take 9 Sprints to complete. The average velocity of the previous product release was 50 completed units of work per Sprint. Over the first 3 Sprints, the Development Team reported an average velocity of 40 completed units per Sprint, while not fully completing the required integration tests. The Development Team estimates that integration testing would require additional effort to make the increments shippable. TheDevelopment Team is unsure if the required velocity is achievable.What is the most effective way to recover?
- 
+
 - [ ] In the next Sprints, the Development Team strives to make the selected work as close to 'done' as possible and at the minimum 90% completed. Any undone work is divided into new Product Backlog Items that will be deferred to the last Sprint in order to maintain stable velocity.
 - [x] The Development Team informs Paul that the progress he has perceived to date is not correct. The Increment is not releasable. They give Paul their estimate of the effort it would take to get the previous work 'done', and suggest doing that work first before proceeding with new features. The team also re-estimates the effort to make the remaining Product Backlog items 'done', including all integration effort. In the end, it is Paul's call to continue the project or to cancel.
 - [ ] The Scrum Master will manage the Sprint Backlog and assign work to the Development Team members to ensure maximum utilization of each member. He/ she will keep track of unused resources so that it does not impact the budget. Unused budget can be allocated for additional Sprints if needed.
@@ -70,14 +70,13 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### An organization wants to apply Scrum to build a new product and has hired Steven to be the Scrum Master of three new teams that will build the first release. The organization is new to Scrum and asks Steven for advice on how to start.
-Which two things should Steven first advise? (Choose two.)
+### An organization wants to apply Scrum to build a new product and has hired Steven to be the Scrum Master of three new teams that will build the first release. The organization is new to Scrum and asks Steven for advice on how to start. Which two things should Steven first advise? (Choose two.)
 
 - [ ] Each Scrum Team has its own Product Backlog with items only their team will be working on.
 - [x] One Product Backlog to represent all of the known work needed to be done for the product.
 - [ ] Three Product Owners, one for each Scrum Team.
 - [x] Having one Product Owner to be accountable for maximizing the flow of value throughout the development process and provide transparency on the overall progress.
- 
+
 **[⬆ Back to Top](#table-of-contents)**
 
 ### A Development Team has a total of six members, 4 members who work full time in the office and 2 members who work part time at home. The Development Team is complaining that it is too difficult to synchronize every day and has suggested having the Daily Scrum every other day instead.What would be three key concerns if the Daily Scrum is held less frequently? (Choose three.)
@@ -115,12 +114,12 @@ Which two things should Steven first advise? (Choose two.)
 **[⬆ Back to Top](#table-of-contents)**
 
 ### In Scrum, how would budgeting and financial forecasting be performed? (Choose two.)
- 
+
 - [x] Frequently inspect the outcomes of the delivered Sprint Increments to understand how much value is being produced per investment spent.
 - [x] A single release may be funded with several Sprints where every Sprint is producing shippable increments.
 - [ ] Budgeting is not necessary as the only funding necessary is the operational costs of the Scrum Teams.
 - [ ] Fixed budgets are not allowed in Scrum.
- 
+
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Steven is a Scrum Master that was hired to help an organization, that is new to Scrum, understands and enacts Scrum effectively.Which three activities would be acceptable? (Choose three.)
@@ -161,7 +160,7 @@ Which two things should Steven first advise? (Choose two.)
 **[⬆ Back to Top](#table-of-contents)**
 
 ### A Scrum Team has requested a hardening Sprint to integrate the work produced in previous Sprints and test before releasing.What three scenarios has likely occurred? (Choose three.)
- 
+
 - [x] The team's Definition of Done is not being adhered to during every Sprint.
 - [x] The team's Definition of Done is weak or incomplete causing a build up of technical debt.
 - [x] The Development Team is having difficulties with the ability to regularly release during a Sprint.
@@ -180,7 +179,7 @@ Which two things should Steven first advise? (Choose two.)
 - [ ] It helps the Scrum Team decide how much time is needed before the Sprint can end.
 
 **[⬆ Back to Top](#table-of-contents)**
- 
+
 ### Successful use of Scrum depends on how well people behave and act in ways that reflect the Scrum values. What can the value of openness affect?
 
 - [ ] Collaboration efforts.
@@ -263,8 +262,7 @@ Which two things should Steven first advise? (Choose two.)
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Peter, a Project Manager, has raised concerns about your Scrum Team's productivity and progress towards the objectives.
-Which is the best way to respond to Peter's concerns?
+### Peter, a Project Manager, has raised concerns about your Scrum Team's productivity and progress towards the objectives. Which is the best way to respond to Peter's concerns?
 
 - [x] Share the Product Backlog, the projections towards the release dates and ensure that Peter has access.
 - [ ] Show the Profit & Loss (P&L) report.
@@ -308,7 +306,7 @@ Which is the best way to respond to Peter's concerns?
 - [ ] Immediately end the discussion before it becomes worse. Make the decision on what work is needed to make the item 'done' and teach the team about the importance of avoiding conflicts.
 - [ ] Facilitate a session with all members on the Scrum Team to help them resolve the conflict, refine the Definition of Done, and become effective again. Tell the team that conflicts are a natural occurrence and coach them on the value of resolving conflicts.
 - [ ] Bring the Product Owner to the discussion and have him/her decide the work needed to make the item 'done.' It is the Product Owner's responsibility to manage the Development Team members.
- 
+
 **[⬆ Back to Top](#table-of-contents)**  
 
 
@@ -340,9 +338,8 @@ Which is the best way to respond to Peter's concerns?
 
 **[⬆ Back to Top](#table-of-contents)**  
 
-### By the end of the Sprint, a Product Backlog item in the Sprint Backlog does not meet the team's Definition of Done.
-What two things should happen with the item? (Choose two.)
- 
+### By the end of the Sprint, a Product Backlog item in the Sprint Backlog does not meet the team's Definition of Done. What two things should happen with the item? (Choose two.)
+
 - [ ] It will be inspected at the Sprint Review and if it is acceptable by the stakeholders then include it in the Increment.
 - [x] Do not include the item in the Increment for the Sprint.
 - [ ] Split the item and add the estimation of the completed work to the current Sprint so not to impact the velocity and add the 'undone' work to the next Sprint.
@@ -351,7 +348,7 @@ What two things should happen with the item? (Choose two.)
 **[⬆ Back to Top](#table-of-contents)** 
 
 ### You have been hired as a Scrum Master for a company that has been doing business for over fifty years. In order to stay competitive, they have started an initiative to digitize their legacy systems. The company has several Scrum Teams working on different components that will be integrated to a single back office platform.Your team is responsible for building the back office platform and integrating all other components. The Scrum Teams work in two week Sprints and are expected to deliver all functionality in six Sprints.During development the requirement changes in the other components have been slowing down your team's progress. Because of these changes, your team has estimated that they will not be able to deliver all expected work within the original timeframe. The Scrum Teams working on the other components confirm that they are still on track to meet the expected delivery date. The program manager in charge of the digitization initiative is upset and angry with your team.As a Scrum Master, what could you do to help the Product Owner?
- 
+
 - [x] You suggest working with the program manager and the other teams on the ordering and the value of your team's open Product Backlog items to redefine the possible delivery date.
 - [ ] You shorten your team's Sprints to be ready sooner.
 - [ ] You remove all items from the Product Backlog for which development is forecasted to be beyond the expected date. These are likely to be low value anyhow.
@@ -360,7 +357,7 @@ What two things should happen with the item? (Choose two.)
 **[⬆ Back to Top](#table-of-contents)** 
 
 ### Steven is a Scrum Master for three different teams building a single product from the same Product Backlog. Development Team members from each team have approached Steven complaining that their teams need Nicole, an external specialist, to commit full time for their next Sprint.Which three acceptable solutions would Steven consider? (Choose three.)
- 
+
 - [ ] For Sprints that require Nicole's expertise for more than one team, combine the teams into one and separate when they no longer need to share her services.
 - [x] Investigate whether applying additional techniques or frameworks for scaling Scrum would be appropriate for this product team in the future, since you have multiple Scrum Teams working on the same product, with dependencies between the teams.
 - [x] People from the Development Teams with an interest in Nicole's domain could volunteer to take on this work in their respective teams.
@@ -535,9 +532,9 @@ What two things should happen with the item? (Choose two.)
 - [x] Its productivity is likely to decrease.
 - [ ] Its productivity is likely to increase.
 - [ ] Its productivity is likely to stay the same.
- 
+
 **[⬆ Back to Top](#table-of-contents)**
- 
+
 ### What would be the main benefits of self-organization?
 
 - [ ] Increased rule compliance, self-accountability, commitment.
@@ -553,18 +550,18 @@ What two things should happen with the item? (Choose two.)
 - [ ] True. Each must be a full-time member on the Scrum Team.
 - [x] True. Their participation and availability will impact the outcomes produced by the Scrum Team.
 - [ ] False. If a Product Owner is unavailable, he/she can be replaced by a Business Analyst.
- 
+
 **[⬆ Back to Top](#table-of-contents)**
 
 ### A new member has just joined an existing Development Team that has been together for several Sprints. During the Sprint, the individual has been trying to share his ideas and viewpoints but is continuously ignored by the rest of the Development Team.Which three Scrum Values has the Development Team been neglecting? (Choose three.)
- 
+
 - [ ] Commitment.
 - [x] Respect.
 - [ ] Transparency.
 - [ ] Focus.
 - [x] Openness.
 - [x] Courage.
- 
+
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Which two behaviors would reflect Servant Leadership in a Scrum Master? (Choose two.)
@@ -613,7 +610,7 @@ What two things should happen with the item? (Choose two.)
 **[⬆ Back to Top](#table-of-contents)**
 
 ### During the Sprint Retrospective, the team is discussing the quality issues that prevented the team from delivering a releasable Increment at the end of the Sprint.The Development Team does, however, mention that they were able to achieve a high velocity.What are the best two responses for Steven, their Scrum Master, to take? (Choose two.)
- 
+
 - [x] Stress the value of working software over measured velocity.
 - [ ] Agree and acknowledge the Development Team's hard work, so they will be motivated to do even more in the next Sprint.
 - [ ] Acknowledge the hard work but remind the Development Team that they need to improve in order to do even more in the next Sprint.
@@ -655,8 +652,7 @@ What two things should happen with the item? (Choose two.)
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your company has notified the stakeholders that they will be delivering the first release of a new product within ten Sprints. On the seventh Sprint, the ScrumTeam discovers that they will not be able to include all of the expected features within the first release. The Product Owner believes if they remove some items from the Definition of Done they will be able to accelerate the development process. The Development Team objects to this idea as it will lead to technical debt.
-As a Scrum Master, what would be the best two ways to explain to the Product Owner the impact of technical debt? (Choose two.)
+### Your company has notified the stakeholders that they will be delivering the first release of a new product within ten Sprints. On the seventh Sprint, the ScrumTeam discovers that they will not be able to include all of the expected features within the first release. The Product Owner believes if they remove some items from the Definition of Done they will be able to accelerate the development process. The Development Team objects to this idea as it will lead to technical debt. As a Scrum Master, what would be the best two ways to explain to the Product Owner the impact of technical debt? (Choose two.)
 
 - [ ] As long as there is still technical debt in the current release, feature development for the next release cannot be started. The Product Owner must first agree to this impact before allowing changes to the Definition of Done.
 - [ ] Reducing the Definition of Done will introduce unknown errors as development progresses and functionality is added. The system can become more difficult to stabilize as work progresses. Development for the actual release as well as future releases will be slowed down in unpredictable ways.
@@ -709,7 +705,7 @@ As a Scrum Master, what would be the best two ways to explain to the Product Own
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Your organization requires all Increments to pass user acceptance testing (UAT) before it is allowed to be released to production.Is it a good idea to postpone UAT until the end of the project to prevent the Development Team from being disrupted during the Sprints?
- 
+
 - [x] No, because the state of the Product Increment won't be transparent and the feedback loop would be too long.
 - [ ] It depends on the team's Definition of Done.
 - [ ] Yes, because the Development Team is a self-organizing team and should not be disrupted during development.
@@ -718,7 +714,7 @@ As a Scrum Master, what would be the best two ways to explain to the Product Own
 **[⬆ Back to Top](#table-of-contents)**
 
 ### During the Sprint Review, one of the stakeholders announces that due to recent market changes, there is risk that funding might be reduced for the project. This triggers tensions to rise and arguments to break out between members.As a Scrum Master, what would be the best two actions to take? (Choose two.)
- 
+
 - [ ] Defend the original budget and request the stakeholders to adhere to the original agreed funding for the product.
 - [x] Encourage the stakeholders and Product Owner to focus on delivering the highest value items for the next Sprint.
 - [x] Be objective and request for a short break for people to calm down.
@@ -765,7 +761,7 @@ As a Scrum Master, what would be the best two ways to explain to the Product Own
 **[⬆ Back to Top](#table-of-contents)**
 
 ### A Development Team member has notified the Scrum Master of a potential data security risk.What action should the Scrum Master take?
- 
+
 - [ ] Notify the test team.
 - [ ] Add a Product Backlog item to address the security issue.
 - [x] Ask the Development Team member to share the issue with the team as soon as possible.
@@ -782,8 +778,7 @@ As a Scrum Master, what would be the best two ways to explain to the Product Own
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Your organization has formed a new Scrum Team and has assigned you as the Scrum Master.
-In what ways would you help the team start?
+### Your organization has formed a new Scrum Team and has assigned you as the Scrum Master. In what ways would you help the team start?
 
 - [ ] Ensure the Scrum Team members have compatible personalities, have the tech leads clarify the expectations and responsibilities of each role, and propose a performance rewards system.
 - [x] Have the Scrum Team members introduce their background experience with each other, ask the Product Owner to discuss the product and answer questions, and ensure the team understands the need for a Definition of ג€Done.ג€
@@ -813,7 +808,7 @@ In what ways would you help the team start?
 - [x] Learn why the Development Team wants this, coach the team on why the Daily Scrum is important and work with them to improve the outcome of the Daily Scrum.
 - [ ] Support the self-organizing team's decision.
 - [ ] Have the Development Team members vote on which days the Daily Scrum should occur.
- 
+
 **[⬆ Back to Top](#table-of-contents)**
 
 ### What action can the Scrum Master take to ensure communication between the Development Team and Product Owner is effective?
@@ -860,7 +855,7 @@ In what ways would you help the team start?
 - [ ] A complete list of security-related Product Backlog items needs to be created before starting a new Sprint.
 - [x] During the Sprint Retrospective, the Development Team assesses how to add these expectations to their Definition of Done so every future Increment will meet these security requirements. If needed they can work with external specialists to better understand the requirements.
 - [x] They are added to the Product Backlog and addressed throughout the next Sprints, combined with creating the business functionality in those Sprints, no matter how small the business functionality.
- 
+
 **[⬆ Back to Top](#table-of-contents)**
 
 ### Steven is a Scrum Master employed by the engineering department. The Director of Engineering considers using Scrum for a new project but wonders about the value of having all of the Development Team members attend the Daily Scrum. He is concerned that the employees already attend a lot of mandatory company meetings.What are two outcomes of the Daily Scrum that Steven should explain on why the Daily Scrum is important? (Choose two.)
@@ -873,8 +868,7 @@ In what ways would you help the team start?
 
 **[⬆ Back to Top](#table-of-contents)** 
 
-### An organization is planning to form five new Scrum Teams to work on building a single product. A few of the future team members ask the Scrum Master who will coordinate the work between the different Scrum Teams.
-What action should the Scrum Master take?
+### An organization is planning to form five new Scrum Teams to work on building a single product. A few of the future team members ask the Scrum Master who will coordinate the work between the different Scrum Teams. What action should the Scrum Master take?
 
 - [ ] Visit the five Development Teams daily to ensure alignment and that all Sprint Backlogs remain synchronized.
 - [x] Teach them that it is their responsibility to form the teams such that each team will have the necessary skills, knowledge, and competencies to create an integrated Increment by the end of every Sprint.
@@ -892,7 +886,7 @@ What action should the Scrum Master take?
 - [ ] Sprint Goals can change as new insights emerge during the Sprint.
 
 **[⬆ Back to Top](#table-of-contents)** 
- 
+
 ### If there are multiple Scrum Teams working on the same product, all of the Scrum Teams must mutually define a Definition of Ready (DoR). The DoR is a checklist that the Product Owner must fulfill before a Product Backlog item can be presented at the Sprint Planning. This protects the Development Team from interruptions and disruptions during the Sprint.
 
 - [ ] True.
